@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-![](https://komarev.com/ghpvc/?username=humg-it98&color=green)
-[![Top Langs](https://github.com/humg-it98/mi-quang)](https://github.com/humg-it98/mi-quang)
---->
+![](https://komarev.com/ghpvc/?username=humg-it98)
+
+## Projects for teaching
+- Mạng xã hội gaming: https://playerduo.ilinks.asia/
+- Website đặt đồ ăn: https://github.com/humg-it98/mi-quang
+
